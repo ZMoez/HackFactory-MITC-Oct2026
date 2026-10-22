@@ -1,0 +1,24 @@
+{
+  "input": "result/extracted_features/test/part_0044/edges.png",
+  "original_drawing": null,
+  "crop_fraction_each_edge": 0.03,
+  "ocr_text": [],
+  "ocr_error": "tesseract is not installed or it's not in your PATH. See README file for more information.",
+  "text_boxes_masked": 0,
+  "long_line_removal_enabled": false,
+  "geometry": {
+    "detected_contours": 1132,
+    "saved_polylines": 795,
+    "image_width_px": 2331,
+    "image_height_px": 1649,
+    "units": "unitless pixels"
+  },
+  "limitations": [
+    "OCR detections are not guaranteed to be correct.",
+    "Text boxes may overlap real part geometry.",
+    "Long dimension lines may resemble real part edges.",
+    "Dimensions are not yet associated with specific features.",
+    "DXF coordinates are pixels, not calibrated millimetres.",
+    "This is a 2D contour model, not a 3D printable solid."
+  ]
+}

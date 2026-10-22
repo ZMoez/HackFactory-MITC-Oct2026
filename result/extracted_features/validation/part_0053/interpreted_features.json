@@ -1,0 +1,93 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "3X",
+      "confidence": 0.9995,
+      "center_px": [
+        815.0,
+        526.0
+      ],
+      "properties": {
+        "multiplicity": 3
+      }
+    },
+    {
+      "source_text": "4 THRU",
+      "confidence": 0.7666,
+      "center_px": [
+        917.0,
+        525.0
+      ],
+      "properties": {
+        "through": true
+      }
+    },
+    {
+      "source_text": "5X C 0.8",
+      "confidence": 0.701,
+      "center_px": [
+        259.0,
+        611.0
+      ],
+      "properties": {
+        "multiplicity": 5
+      }
+    },
+    {
+      "source_text": "2X",
+      "confidence": 0.9943,
+      "center_px": [
+        479.0,
+        1082.0
+      ],
+      "properties": {
+        "multiplicity": 2
+      }
+    },
+    {
+      "source_text": "4 THRU L Q 6 + 2",
+      "confidence": 0.429,
+      "center_px": [
+        648.0,
+        1081.0
+      ],
+      "properties": {
+        "through": true
+      }
+    },
+    {
+      "source_text": "6X C 0.8",
+      "confidence": 0.9169,
+      "center_px": [
+        879.0,
+        1108.0
+      ],
+      "properties": {
+        "multiplicity": 6
+      }
+    },
+    {
+      "source_text": "6X C 0.8",
+      "confidence": 0.7726,
+      "center_px": [
+        524.0,
+        1159.0
+      ],
+      "properties": {
+        "multiplicity": 6
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 511,
+    "circle_candidate_count": 107
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}

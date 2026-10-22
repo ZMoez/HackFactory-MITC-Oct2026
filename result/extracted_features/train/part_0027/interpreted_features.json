@@ -1,0 +1,61 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "6X",
+      "confidence": 0.9563,
+      "center_px": [
+        732.0,
+        453.0
+      ],
+      "properties": {
+        "multiplicity": 6
+      }
+    },
+    {
+      "source_text": "6 THRU EQ SP ON",
+      "confidence": 0.491,
+      "center_px": [
+        885.0,
+        453.0
+      ],
+      "properties": {
+        "through": true,
+        "equal_spacing": true
+      }
+    },
+    {
+      "source_text": "60 B.C.",
+      "confidence": 0.9008,
+      "center_px": [
+        1057.0,
+        454.0
+      ],
+      "properties": {
+        "bolt_circle": 60.0
+      }
+    },
+    {
+      "source_text": "40 THRU",
+      "confidence": 0.6304,
+      "center_px": [
+        905.0,
+        601.0
+      ],
+      "properties": {
+        "through": true
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 457,
+    "circle_candidate_count": 87
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}

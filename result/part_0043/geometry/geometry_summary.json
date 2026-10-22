@@ -1,0 +1,17 @@
+{
+  "image": "data/cadsy/samples/part_0043/iso.png",
+  "image_size": [
+    2480,
+    1754
+  ],
+  "counts": {
+    "ocr_text_regions": 56,
+    "straight_line_segments": 813,
+    "solid_lines": 512,
+    "dashed_lines": 115,
+    "uncertain_lines": 186,
+    "circles": 3892,
+    "arrowhead_candidates": 64,
+    "curve_candidates": 51
+  }
+}

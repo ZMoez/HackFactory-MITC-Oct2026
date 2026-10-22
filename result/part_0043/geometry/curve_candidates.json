@@ -1,0 +1,563 @@
+[
+  {
+    "bbox": [
+      2261,
+      1628,
+      25,
+      12
+    ],
+    "area_px2": 118.0,
+    "perimeter_px": 68.77,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      2261,
+      1616,
+      25,
+      12
+    ],
+    "area_px2": 118.0,
+    "perimeter_px": 68.77,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      2254,
+      1614,
+      84,
+      28
+    ],
+    "area_px2": 1276.5,
+    "perimeter_px": 241.78,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      2446,
+      1549,
+      10,
+      19
+    ],
+    "area_px2": 60.5,
+    "perimeter_px": 65.07,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1348,
+      1362,
+      22,
+      22
+    ],
+    "area_px2": 177.5,
+    "perimeter_px": 91.15,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1327,
+      1344,
+      111,
+      56
+    ],
+    "area_px2": 5176.5,
+    "perimeter_px": 617.21,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      1276,
+      1340,
+      17,
+      30
+    ],
+    "area_px2": 79.0,
+    "perimeter_px": 100.14,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1026,
+      1340,
+      17,
+      30
+    ],
+    "area_px2": 73.5,
+    "perimeter_px": 101.56,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1513,
+      1336,
+      15,
+      20
+    ],
+    "area_px2": 24.0,
+    "perimeter_px": 108.57,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      2446,
+      1277,
+      10,
+      18
+    ],
+    "area_px2": 50.5,
+    "perimeter_px": 78.73,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1285,
+      1055,
+      15,
+      16
+    ],
+    "area_px2": 2.0,
+    "perimeter_px": 55.66,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      1602,
+      1049,
+      22,
+      22
+    ],
+    "area_px2": 177.5,
+    "perimeter_px": 91.98,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      788,
+      1049,
+      22,
+      22
+    ],
+    "area_px2": 176.5,
+    "perimeter_px": 93.15,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1373,
+      1034,
+      37,
+      58
+    ],
+    "area_px2": 1618.5,
+    "perimeter_px": 210.47,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      55,
+      1006,
+      8,
+      15
+    ],
+    "area_px2": 89.5,
+    "perimeter_px": 37.9,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      773,
+      984,
+      183,
+      101
+    ],
+    "area_px2": 14300.5,
+    "perimeter_px": 563.41,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1175,
+      945,
+      231,
+      235
+    ],
+    "area_px2": 40992.5,
+    "perimeter_px": 1018.65,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1027,
+      798,
+      329,
+      530
+    ],
+    "area_px2": 93216.0,
+    "perimeter_px": 2168.39,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2445,
+      731,
+      12,
+      19
+    ],
+    "area_px2": 70.0,
+    "perimeter_px": 78.28,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      53,
+      731,
+      12,
+      19
+    ],
+    "area_px2": 66.5,
+    "perimeter_px": 79.7,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1018,
+      725,
+      687,
+      675
+    ],
+    "area_px2": 230620.0,
+    "perimeter_px": 4965.93,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1980,
+      550,
+      9,
+      17
+    ],
+    "area_px2": 27.5,
+    "perimeter_px": 52.04,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2167,
+      521,
+      9,
+      17
+    ],
+    "area_px2": 27.5,
+    "perimeter_px": 52.87,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      454,
+      499,
+      11,
+      11
+    ],
+    "area_px2": 21.0,
+    "perimeter_px": 37.66,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1620,
+      477,
+      19,
+      10
+    ],
+    "area_px2": 59.0,
+    "perimeter_px": 77.94,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      988,
+      477,
+      19,
+      10
+    ],
+    "area_px2": 58.0,
+    "perimeter_px": 77.94,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      636,
+      470,
+      12,
+      12
+    ],
+    "area_px2": 21.5,
+    "perimeter_px": 39.9,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      608,
+      470,
+      12,
+      12
+    ],
+    "area_px2": 22.0,
+    "perimeter_px": 40.49,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      252,
+      470,
+      12,
+      12
+    ],
+    "area_px2": 21.5,
+    "perimeter_px": 39.9,
+    "vertices_approx": 8
+  },
+  {
+    "bbox": [
+      454,
+      442,
+      11,
+      12
+    ],
+    "area_px2": 21.0,
+    "perimeter_px": 38.49,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1371,
+      436,
+      41,
+      74
+    ],
+    "area_px2": 205.0,
+    "perimeter_px": 329.4,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2070,
+      429,
+      14,
+      14
+    ],
+    "area_px2": 44.0,
+    "perimeter_px": 71.11,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1964,
+      416,
+      26,
+      19
+    ],
+    "area_px2": 305.5,
+    "perimeter_px": 87.7,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2217,
+      413,
+      9,
+      17
+    ],
+    "area_px2": 26.5,
+    "perimeter_px": 52.04,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2070,
+      400,
+      6,
+      14
+    ],
+    "area_px2": 31.0,
+    "perimeter_px": 33.31,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1027,
+      387,
+      395,
+      177
+    ],
+    "area_px2": 66592.0,
+    "perimeter_px": 1631.68,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1893,
+      363,
+      9,
+      17
+    ],
+    "area_px2": 27.5,
+    "perimeter_px": 51.21,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1827,
+      337,
+      33,
+      35
+    ],
+    "area_px2": 346.0,
+    "perimeter_px": 170.02,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1875,
+      335,
+      10,
+      11
+    ],
+    "area_px2": 20.0,
+    "perimeter_px": 38.14,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      2080,
+      334,
+      9,
+      17
+    ],
+    "area_px2": 27.5,
+    "perimeter_px": 51.21,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1891,
+      321,
+      21,
+      11
+    ],
+    "area_px2": 29.5,
+    "perimeter_px": 61.21,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2082,
+      306,
+      15,
+      11
+    ],
+    "area_px2": 32.0,
+    "perimeter_px": 54.97,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      2053,
+      304,
+      16,
+      13
+    ],
+    "area_px2": 37.5,
+    "perimeter_px": 64.73,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1025,
+      285,
+      551,
+      283
+    ],
+    "area_px2": 107001.5,
+    "perimeter_px": 2181.1,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2188,
+      279,
+      39,
+      80
+    ],
+    "area_px2": 507.0,
+    "perimeter_px": 288.65,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1905,
+      250,
+      242,
+      132
+    ],
+    "area_px2": 1576.5,
+    "perimeter_px": 1380.41,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      1877,
+      229,
+      26,
+      19
+    ],
+    "area_px2": 308.0,
+    "perimeter_px": 87.94,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2067,
+      203,
+      20,
+      11
+    ],
+    "area_px2": 154.0,
+    "perimeter_px": 48.63,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      2064,
+      200,
+      26,
+      19
+    ],
+    "area_px2": 307.5,
+    "perimeter_px": 88.53,
+    "vertices_approx": 7
+  },
+  {
+    "bbox": [
+      1779,
+      174,
+      496,
+      421
+    ],
+    "area_px2": 175415.5,
+    "perimeter_px": 3119.66,
+    "vertices_approx": 6
+  },
+  {
+    "bbox": [
+      99,
+      40,
+      2341,
+      1674
+    ],
+    "area_px2": 25496.5,
+    "perimeter_px": 22917.95,
+    "vertices_approx": 7
+  }
+]

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# previous scripts
+prev/
+
+# Generated results
+
+# Trained models
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.npz
+
+# Logs
+*.log

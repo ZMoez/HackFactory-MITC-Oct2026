@@ -1,0 +1,87 @@
+[train] Prepared part_0045
+[train] Prepared part_0056
+[train] Prepared part_0008
+[train] Prepared part_0024
+[train] Prepared part_0047
+[train] Prepared part_0040
+[train] Prepared part_0021
+[train] Prepared part_0061
+[train] Prepared part_0055
+[train] Prepared part_0010
+[train] Prepared part_0030
+[train] Prepared part_0019
+[train] Prepared part_0042
+[train] Prepared part_0037
+[train] Prepared part_0017
+[train] Prepared part_0023
+[train] Prepared part_0052
+[train] Prepared part_0043
+[train] Prepared part_0031
+[train] Prepared part_0020
+[train] Prepared part_0032
+[train] Prepared part_0012
+[train] Prepared part_0026
+[train] Prepared part_0041
+[train] Prepared part_0050
+[train] Prepared part_0064
+[train] Prepared part_0034
+[train] Prepared part_0025
+[train] Prepared part_0057
+[train] Prepared part_0005
+[train] Prepared part_0059
+[train] Prepared part_0022
+[train] Prepared part_0051
+[train] Prepared part_0011
+[train] Prepared part_0001
+[train] Prepared part_0062
+[train] Prepared part_0029
+[train] Prepared part_0046
+[train] Prepared part_0027
+[train] Prepared part_0054
+[train] Prepared part_0013
+[train] Prepared part_0036
+[train] Prepared part_0049
+[train] Prepared part_0039
+[train] Prepared part_0033
+
+[train] Samples: 45
+[train] Images: (45, 256, 256)
+[train] Features: (45, 68)
+[train] Labels: (45, 3)
+[train] Saved: /Users/zmi01/Documents/Engineering/HackFactory-MITC-Oct2026/result/train/train_feature_dataset.npz
+
+[validation] Prepared part_0060
+[validation] Prepared part_0014
+[validation] Prepared part_0053
+[validation] Prepared part_0002
+[validation] Prepared part_0003
+[validation] Prepared part_0028
+[validation] Prepared part_0038
+[validation] Prepared part_0006
+[validation] Prepared part_0035
+[validation] Prepared part_0058
+
+[validation] Samples: 10
+[validation] Images: (10, 256, 256)
+[validation] Features: (10, 68)
+[validation] Labels: (10, 3)
+[validation] Saved: /Users/zmi01/Documents/Engineering/HackFactory-MITC-Oct2026/result/validation/validation_feature_dataset.npz
+
+[test] Prepared part_0044
+[test] Prepared part_0007
+[test] Prepared part_0063
+[test] Prepared part_0009
+[test] Prepared part_0065
+[test] Prepared part_0016
+[test] Prepared part_0018
+[test] Prepared part_0048
+[test] Prepared part_0004
+[test] Prepared part_0015
+
+[test] Samples: 10
+[test] Images: (10, 256, 256)
+[test] Features: (10, 68)
+[test] Labels: (10, 3)
+[test] Saved: /Users/zmi01/Documents/Engineering/HackFactory-MITC-Oct2026/result/test/test_feature_dataset.npz
+
+All multimodal feature datasets prepared successfully.

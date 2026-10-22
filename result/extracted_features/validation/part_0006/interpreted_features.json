@@ -1,0 +1,29 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "28 +0.1 THRU LJ Q 34 + 7",
+      "confidence": 0.4418,
+      "center_px": [
+        872.0,
+        335.0
+      ],
+      "properties": {
+        "nominal_size": 28.0,
+        "upper_deviation": 0.1,
+        "through": true
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 583,
+    "circle_candidate_count": 72
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}

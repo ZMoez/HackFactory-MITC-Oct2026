@@ -1,0 +1,72 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "45 THRU",
+      "confidence": 0.9977,
+      "center_px": [
+        627.0,
+        246.0
+      ],
+      "properties": {
+        "through": true
+      }
+    },
+    {
+      "source_text": "4X",
+      "confidence": 0.9895,
+      "center_px": [
+        741.0,
+        1024.0
+      ],
+      "properties": {
+        "multiplicity": 4
+      }
+    },
+    {
+      "source_text": "5 THRU EQ SP ON",
+      "confidence": 0.9441,
+      "center_px": [
+        894.0,
+        1025.0
+      ],
+      "properties": {
+        "through": true,
+        "equal_spacing": true
+      }
+    },
+    {
+      "source_text": "69 B.C:",
+      "confidence": 0.5652,
+      "center_px": [
+        1066.0,
+        1026.0
+      ],
+      "properties": {
+        "bolt_circle": 69.0
+      }
+    },
+    {
+      "source_text": "4X C 0.8",
+      "confidence": 0.7753,
+      "center_px": [
+        643.0,
+        1309.0
+      ],
+      "properties": {
+        "multiplicity": 4
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 528,
+    "circle_candidate_count": 109
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}

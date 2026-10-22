@@ -1,0 +1,587 @@
+[
+  {
+    "part_id": "part_0045",
+    "drawing": "data/cadsy/samples/part_0045/iso.png",
+    "model": "data/cadsy/samples/part_0045/model.step",
+    "targets": {
+      "bbox_x": 75.3982,
+      "bbox_y": 2.5,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 1874.1414,
+      "surface_area": 1921.0139
+    }
+  },
+  {
+    "part_id": "part_0056",
+    "drawing": "data/cadsy/samples/part_0056/iso.png",
+    "model": "data/cadsy/samples/part_0056/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 68.0,
+      "bbox_z": 8.0,
+      "solid_count": 1,
+      "volume": 8877.5708,
+      "surface_area": 4545.0708
+    }
+  },
+  {
+    "part_id": "part_0008",
+    "drawing": "data/cadsy/samples/part_0008/iso.png",
+    "model": "data/cadsy/samples/part_0008/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 16881.6373,
+      "surface_area": 8862.125
+    }
+  },
+  {
+    "part_id": "part_0024",
+    "drawing": "data/cadsy/samples/part_0024/iso.png",
+    "model": "data/cadsy/samples/part_0024/model.step",
+    "targets": {
+      "bbox_x": 81.5755,
+      "bbox_y": 81.5755,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 46642.6431,
+      "surface_area": 13178.0732
+    }
+  },
+  {
+    "part_id": "part_0047",
+    "drawing": "data/cadsy/samples/part_0047/iso.png",
+    "model": "data/cadsy/samples/part_0047/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 100.0,
+      "solid_count": 1,
+      "volume": 155791.5797,
+      "surface_area": 62725.0389
+    }
+  },
+  {
+    "part_id": "part_0040",
+    "drawing": "data/cadsy/samples/part_0040/iso.png",
+    "model": "data/cadsy/samples/part_0040/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 60.0,
+      "solid_count": 1,
+      "volume": 89731.7402,
+      "surface_area": 37306.4128
+    }
+  },
+  {
+    "part_id": "part_0021",
+    "drawing": "data/cadsy/samples/part_0021/iso.png",
+    "model": "data/cadsy/samples/part_0021/model.step",
+    "targets": {
+      "bbox_x": 92.0,
+      "bbox_y": 72.0,
+      "bbox_z": 5.0,
+      "solid_count": 1,
+      "volume": 22882.8776,
+      "surface_area": 11909.9847
+    }
+  },
+  {
+    "part_id": "part_0061",
+    "drawing": "data/cadsy/samples/part_0061/iso.png",
+    "model": "data/cadsy/samples/part_0061/model.step",
+    "targets": {
+      "bbox_x": 78.0,
+      "bbox_y": 88.0,
+      "bbox_z": 14.0,
+      "solid_count": 1,
+      "volume": 15059.3914,
+      "surface_area": 7172.8388
+    }
+  },
+  {
+    "part_id": "part_0055",
+    "drawing": "data/cadsy/samples/part_0055/iso.png",
+    "model": "data/cadsy/samples/part_0055/model.step",
+    "targets": {
+      "bbox_x": 77.5,
+      "bbox_y": 57.5,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 16849.0266,
+      "surface_area": 6788.6404
+    }
+  },
+  {
+    "part_id": "part_0010",
+    "drawing": "data/cadsy/samples/part_0010/iso.png",
+    "model": "data/cadsy/samples/part_0010/model.step",
+    "targets": {
+      "bbox_x": 84.0,
+      "bbox_y": 84.0,
+      "bbox_z": 20.0,
+      "solid_count": 1,
+      "volume": 7392.1988,
+      "surface_area": 19622.6122
+    }
+  },
+  {
+    "part_id": "part_0030",
+    "drawing": "data/cadsy/samples/part_0030/iso.png",
+    "model": "data/cadsy/samples/part_0030/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 107.5,
+      "bbox_z": 15.0,
+      "solid_count": 1,
+      "volume": 54171.0015,
+      "surface_area": 24310.5861
+    }
+  },
+  {
+    "part_id": "part_0019",
+    "drawing": "data/cadsy/samples/part_0019/iso.png",
+    "model": "data/cadsy/samples/part_0019/model.step",
+    "targets": {
+      "bbox_x": 44.188,
+      "bbox_y": 40.0,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 10610.8908,
+      "surface_area": 4103.9834
+    }
+  },
+  {
+    "part_id": "part_0042",
+    "drawing": "data/cadsy/samples/part_0042/iso.png",
+    "model": "data/cadsy/samples/part_0042/model.step",
+    "targets": {
+      "bbox_x": 87.342,
+      "bbox_y": 87.342,
+      "bbox_z": 40.5,
+      "solid_count": 1,
+      "volume": 190912.1622,
+      "surface_area": 30808.3688
+    }
+  },
+  {
+    "part_id": "part_0037",
+    "drawing": "data/cadsy/samples/part_0037/iso.png",
+    "model": "data/cadsy/samples/part_0037/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 5.0,
+      "solid_count": 1,
+      "volume": 16273.741,
+      "surface_area": 8890.5432
+    }
+  },
+  {
+    "part_id": "part_0017",
+    "drawing": "data/cadsy/samples/part_0017/iso.png",
+    "model": "data/cadsy/samples/part_0017/model.step",
+    "targets": {
+      "bbox_x": 90.0,
+      "bbox_y": 90.0,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 58884.1814,
+      "surface_area": 15510.2399
+    }
+  },
+  {
+    "part_id": "part_0023",
+    "drawing": "data/cadsy/samples/part_0023/iso.png",
+    "model": "data/cadsy/samples/part_0023/model.step",
+    "targets": {
+      "bbox_x": 45.5692,
+      "bbox_y": 45.5692,
+      "bbox_z": 17.0,
+      "solid_count": 1,
+      "volume": 18942.9717,
+      "surface_area": 5795.8407
+    }
+  },
+  {
+    "part_id": "part_0052",
+    "drawing": "data/cadsy/samples/part_0052/iso.png",
+    "model": "data/cadsy/samples/part_0052/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 58.0,
+      "solid_count": 1,
+      "volume": 63420.8749,
+      "surface_area": 32705.0059
+    }
+  },
+  {
+    "part_id": "part_0043",
+    "drawing": "data/cadsy/samples/part_0043/iso.png",
+    "model": "data/cadsy/samples/part_0043/model.step",
+    "targets": {
+      "bbox_x": 90.0,
+      "bbox_y": 90.0,
+      "bbox_z": 30.0,
+      "solid_count": 1,
+      "volume": 150966.9959,
+      "surface_area": 26139.0958
+    }
+  },
+  {
+    "part_id": "part_0031",
+    "drawing": "data/cadsy/samples/part_0031/iso.png",
+    "model": "data/cadsy/samples/part_0031/model.step",
+    "targets": {
+      "bbox_x": 84.0,
+      "bbox_y": 84.0,
+      "bbox_z": 5.0,
+      "solid_count": 1,
+      "volume": 21508.7949,
+      "surface_area": 10662.2344
+    }
+  },
+  {
+    "part_id": "part_0020",
+    "drawing": "data/cadsy/samples/part_0020/iso.png",
+    "model": "data/cadsy/samples/part_0020/model.step",
+    "targets": {
+      "bbox_x": 90.0,
+      "bbox_y": 90.0,
+      "bbox_z": 30.0,
+      "solid_count": 1,
+      "volume": 87590.0325,
+      "surface_area": 20539.7745
+    }
+  },
+  {
+    "part_id": "part_0032",
+    "drawing": "data/cadsy/samples/part_0032/iso.png",
+    "model": "data/cadsy/samples/part_0032/model.step",
+    "targets": {
+      "bbox_x": 58.0,
+      "bbox_y": 58.0,
+      "bbox_z": 5.0,
+      "solid_count": 1,
+      "volume": 10912.7417,
+      "surface_area": 5990.8946
+    }
+  },
+  {
+    "part_id": "part_0012",
+    "drawing": "data/cadsy/samples/part_0012/iso.png",
+    "model": "data/cadsy/samples/part_0012/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 40.0,
+      "bbox_z": 15.0,
+      "solid_count": 1,
+      "volume": 33557.1531,
+      "surface_area": 9528.7653
+    }
+  },
+  {
+    "part_id": "part_0026",
+    "drawing": "data/cadsy/samples/part_0026/iso.png",
+    "model": "data/cadsy/samples/part_0026/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 35.0,
+      "bbox_z": 19.5,
+      "solid_count": 1,
+      "volume": 18099.4548,
+      "surface_area": 7956.5108
+    }
+  },
+  {
+    "part_id": "part_0041",
+    "drawing": "data/cadsy/samples/part_0041/iso.png",
+    "model": "data/cadsy/samples/part_0041/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 25.6284,
+      "solid_count": 1,
+      "volume": 19148.9112,
+      "surface_area": 12413.233
+    }
+  },
+  {
+    "part_id": "part_0050",
+    "drawing": "data/cadsy/samples/part_0050/iso.png",
+    "model": "data/cadsy/samples/part_0050/model.step",
+    "targets": {
+      "bbox_x": 60.0,
+      "bbox_y": 72.5,
+      "bbox_z": 95.0,
+      "solid_count": 1,
+      "volume": 97996.4639,
+      "surface_area": 37886.913
+    }
+  },
+  {
+    "part_id": "part_0064",
+    "drawing": "data/cadsy/samples/part_0064/iso.png",
+    "model": "data/cadsy/samples/part_0064/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 60.0,
+      "bbox_z": 16.0,
+      "solid_count": 1,
+      "volume": 15352.7611,
+      "surface_area": 6385.2804
+    }
+  },
+  {
+    "part_id": "part_0034",
+    "drawing": "data/cadsy/samples/part_0034/iso.png",
+    "model": "data/cadsy/samples/part_0034/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 8.0,
+      "solid_count": 1,
+      "volume": 27028.8897,
+      "surface_area": 12835.5938
+    }
+  },
+  {
+    "part_id": "part_0025",
+    "drawing": "data/cadsy/samples/part_0025/iso.png",
+    "model": "data/cadsy/samples/part_0025/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 50.0,
+      "bbox_z": 17.0,
+      "solid_count": 1,
+      "volume": 63326.593,
+      "surface_area": 12833.9974
+    }
+  },
+  {
+    "part_id": "part_0057",
+    "drawing": "data/cadsy/samples/part_0057/iso.png",
+    "model": "data/cadsy/samples/part_0057/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 20419.6017,
+      "surface_area": 13535.5619
+    }
+  },
+  {
+    "part_id": "part_0005",
+    "drawing": "data/cadsy/samples/part_0005/iso.png",
+    "model": "data/cadsy/samples/part_0005/model.step",
+    "targets": {
+      "bbox_x": 63.5085,
+      "bbox_y": 55.0,
+      "bbox_z": 14.0,
+      "solid_count": 1,
+      "volume": 21806.1845,
+      "surface_area": 7398.3153
+    }
+  },
+  {
+    "part_id": "part_0059",
+    "drawing": "data/cadsy/samples/part_0059/iso.png",
+    "model": "data/cadsy/samples/part_0059/model.step",
+    "targets": {
+      "bbox_x": 60.0,
+      "bbox_y": 8.0,
+      "bbox_z": 12.0,
+      "solid_count": 1,
+      "volume": 4896.0,
+      "surface_area": 2835.0116
+    }
+  },
+  {
+    "part_id": "part_0022",
+    "drawing": "data/cadsy/samples/part_0022/iso.png",
+    "model": "data/cadsy/samples/part_0022/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 10.0,
+      "solid_count": 1,
+      "volume": 46793.7538,
+      "surface_area": 12863.2372
+    }
+  },
+  {
+    "part_id": "part_0051",
+    "drawing": "data/cadsy/samples/part_0051/iso.png",
+    "model": "data/cadsy/samples/part_0051/model.step",
+    "targets": {
+      "bbox_x": 110.0,
+      "bbox_y": 60.0,
+      "bbox_z": 100.0,
+      "solid_count": 1,
+      "volume": 133714.4028,
+      "surface_area": 55061.0876
+    }
+  },
+  {
+    "part_id": "part_0011",
+    "drawing": "data/cadsy/samples/part_0011/iso.png",
+    "model": "data/cadsy/samples/part_0011/model.step",
+    "targets": {
+      "bbox_x": 60.0,
+      "bbox_y": 15.0,
+      "bbox_z": 60.0,
+      "solid_count": 1,
+      "volume": 14411.3266,
+      "surface_area": 7462.8921
+    }
+  },
+  {
+    "part_id": "part_0001",
+    "drawing": "data/cadsy/samples/part_0001/iso.png",
+    "model": "data/cadsy/samples/part_0001/model.step",
+    "targets": {
+      "bbox_x": 70.0,
+      "bbox_y": 45.0,
+      "bbox_z": 13.0,
+      "solid_count": 1,
+      "volume": 32097.8058,
+      "surface_area": 9325.5155
+    }
+  },
+  {
+    "part_id": "part_0062",
+    "drawing": "data/cadsy/samples/part_0062/iso.png",
+    "model": "data/cadsy/samples/part_0062/model.step",
+    "targets": {
+      "bbox_x": 82.0,
+      "bbox_y": 62.0,
+      "bbox_z": 11.0,
+      "solid_count": 1,
+      "volume": 7967.8481,
+      "surface_area": 4125.1412
+    }
+  },
+  {
+    "part_id": "part_0029",
+    "drawing": "data/cadsy/samples/part_0029/iso.png",
+    "model": "data/cadsy/samples/part_0029/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 60.0,
+      "bbox_z": 11.0,
+      "solid_count": 1,
+      "volume": 28316.7868,
+      "surface_area": 11826.3556
+    }
+  },
+  {
+    "part_id": "part_0046",
+    "drawing": "data/cadsy/samples/part_0046/iso.png",
+    "model": "data/cadsy/samples/part_0046/model.step",
+    "targets": {
+      "bbox_x": 55.0,
+      "bbox_y": 55.0,
+      "bbox_z": 15.0,
+      "solid_count": 1,
+      "volume": 35461.1917,
+      "surface_area": 7499.686
+    }
+  },
+  {
+    "part_id": "part_0027",
+    "drawing": "data/cadsy/samples/part_0027/iso.png",
+    "model": "data/cadsy/samples/part_0027/model.step",
+    "targets": {
+      "bbox_x": 82.0711,
+      "bbox_y": 82.0711,
+      "bbox_z": 17.0711,
+      "solid_count": 1,
+      "volume": 57497.1453,
+      "surface_area": 15138.6809
+    }
+  },
+  {
+    "part_id": "part_0054",
+    "drawing": "data/cadsy/samples/part_0054/iso.png",
+    "model": "data/cadsy/samples/part_0054/model.step",
+    "targets": {
+      "bbox_x": 60.0,
+      "bbox_y": 80.0,
+      "bbox_z": 8.0,
+      "solid_count": 1,
+      "volume": 18860.489,
+      "surface_area": 7125.4336
+    }
+  },
+  {
+    "part_id": "part_0013",
+    "drawing": "data/cadsy/samples/part_0013/iso.png",
+    "model": "data/cadsy/samples/part_0013/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 31.0,
+      "bbox_z": 7.5,
+      "solid_count": 1,
+      "volume": 11946.3292,
+      "surface_area": 6021.9885
+    }
+  },
+  {
+    "part_id": "part_0036",
+    "drawing": "data/cadsy/samples/part_0036/iso.png",
+    "model": "data/cadsy/samples/part_0036/model.step",
+    "targets": {
+      "bbox_x": 80.0,
+      "bbox_y": 80.0,
+      "bbox_z": 6.0,
+      "solid_count": 1,
+      "volume": 25161.711,
+      "surface_area": 10522.1285
+    }
+  },
+  {
+    "part_id": "part_0049",
+    "drawing": "data/cadsy/samples/part_0049/iso.png",
+    "model": "data/cadsy/samples/part_0049/model.step",
+    "targets": {
+      "bbox_x": 90.0,
+      "bbox_y": 90.0,
+      "bbox_z": 90.0,
+      "solid_count": 1,
+      "volume": 115735.5987,
+      "surface_area": 44930.2182
+    }
+  },
+  {
+    "part_id": "part_0039",
+    "drawing": "data/cadsy/samples/part_0039/iso.png",
+    "model": "data/cadsy/samples/part_0039/model.step",
+    "targets": {
+      "bbox_x": 100.0,
+      "bbox_y": 100.0,
+      "bbox_z": 6.0,
+      "solid_count": 1,
+      "volume": 45886.3369,
+      "surface_area": 17568.2109
+    }
+  },
+  {
+    "part_id": "part_0033",
+    "drawing": "data/cadsy/samples/part_0033/iso.png",
+    "model": "data/cadsy/samples/part_0033/model.step",
+    "targets": {
+      "bbox_x": 82.0,
+      "bbox_y": 82.0,
+      "bbox_z": 14.0,
+      "solid_count": 1,
+      "volume": 13626.3115,
+      "surface_area": 26914.3782
+    }
+  }
+]

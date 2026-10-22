@@ -1,0 +1,83 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "4X 7 X 29 X 2.5 DEEP",
+      "confidence": 0.96,
+      "center_px": [
+        841.0,
+        467.0
+      ],
+      "properties": {
+        "multiplicity": 4,
+        "depth": 2.5
+      }
+    },
+    {
+      "source_text": "3 THRU",
+      "confidence": 0.9999,
+      "center_px": [
+        680.0,
+        1057.0
+      ],
+      "properties": {
+        "through": true
+      }
+    },
+    {
+      "source_text": "10X C 0.5",
+      "confidence": 0.7222,
+      "center_px": [
+        944.0,
+        1176.0
+      ],
+      "properties": {
+        "multiplicity": 10
+      }
+    },
+    {
+      "source_text": "2X R 5",
+      "confidence": 0.9968,
+      "center_px": [
+        1192.0,
+        1175.0
+      ],
+      "properties": {
+        "multiplicity": 2
+      }
+    },
+    {
+      "source_text": "10X €C 0.5",
+      "confidence": 0.6429,
+      "center_px": [
+        1922.0,
+        1272.0
+      ],
+      "properties": {
+        "multiplicity": 10
+      }
+    },
+    {
+      "source_text": "2X R 5",
+      "confidence": 0.6259,
+      "center_px": [
+        1942.0,
+        1387.0
+      ],
+      "properties": {
+        "multiplicity": 2
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 608,
+    "circle_candidate_count": 82
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}

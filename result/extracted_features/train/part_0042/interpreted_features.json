@@ -1,0 +1,49 @@
+{
+  "status": "candidate_interpretation",
+  "units": "unknown",
+  "annotations": [
+    {
+      "source_text": "4X",
+      "confidence": 0.9847,
+      "center_px": [
+        872.0,
+        542.0
+      ],
+      "properties": {
+        "multiplicity": 4
+      }
+    },
+    {
+      "source_text": "6 + 34 EQ SP ON",
+      "confidence": 0.4729,
+      "center_px": [
+        1019.0,
+        543.0
+      ],
+      "properties": {
+        "equal_spacing": true
+      }
+    },
+    {
+      "source_text": "40 B.C.",
+      "confidence": 0.5049,
+      "center_px": [
+        1186.0,
+        543.0
+      ],
+      "properties": {
+        "bolt_circle": 40.0
+      }
+    }
+  ],
+  "geometry_summary": {
+    "line_candidate_count": 633,
+    "circle_candidate_count": 131
+  },
+  "limitations": [
+    "Dimensions are not yet associated with specific geometric features.",
+    "OCR annotations split across multiple text items are not yet merged.",
+    "Detected circles may include drawing annotations and duplicate contours.",
+    "Units and projection must be established from the drawing."
+  ]
+}
